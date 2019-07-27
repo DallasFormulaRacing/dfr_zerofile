@@ -4,5 +4,5 @@ dfr_zero file is a python script that recurses through all the sub-directories s
 
 To run this python script use any version of python
 ```
-python zerofile.py 'Enter the absolute path of your directory here'
+python zerofile.py "Enter the absolute path of your directory here"
 ```
